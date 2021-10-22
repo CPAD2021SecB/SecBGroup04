@@ -6,10 +6,10 @@ Team Name : "Locate Me!"
 
 Team members:
 
-"Chandrika V Kerur(2020SP93056)"
-
 "Amna Nizar(2020SP93037)"
 
-"Sambhrama B R (2020SP93089)"
+"Chandrika V Kerur(2020SP93056)"
 
-"Tahniyat FATIMA(2020SP93061)"
+"Tahniyat Fatima(2020SP93061)"
+
+"Sambhrama B R (2020SP93089)"
