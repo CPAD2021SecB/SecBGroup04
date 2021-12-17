@@ -23,6 +23,9 @@ environment:
 dependencies:
   google_maps_flutter: ^2.1.1
   location: ^4.2.0
+  firebase_auth: ^3.3.3
+  google_sign_in: ^5.2.1
+  flutter_signin_button: ^2.0.0
   flutter_polyline_points: ^1.0.0
   flutter:
     sdk: flutter
