@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:location_tracking/location_tracking.dart';
+import 'package:location_tracking/google_signin.dart';
+import 'package:firebase_core/firebase_core.dart';
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
   runApp(MyApp());
 }
 
@@ -24,7 +27,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: LocationTracking(),
+      home: GoogleSignInPage(),
     );
   }
 }
