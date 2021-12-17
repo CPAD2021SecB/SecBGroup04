@@ -1,4 +1,4 @@
-package com.example.locate_me
+package com.example.location_tracking
 
 import io.flutter.embedding.android.FlutterActivity
 
